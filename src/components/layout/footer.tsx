@@ -284,13 +284,13 @@ export default function Footer() {
                   </span>
                   <nav className="flex flex-col space-y-3">
                     <Link
-                      href="/signin"
+                      href="/sign-in"
                       className="text-sm font-normal text-gray-400 transition hover:text-white"
                     >
                       Login
                     </Link>
                     <Link
-                      href="/signup"
+                      href="/sign-up"
                       className="text-sm font-normal text-gray-400 transition hover:text-white"
                     >
                       Sign Up
