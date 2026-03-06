@@ -39,7 +39,7 @@ export default function SignInPage() {
               <p className="text-gray-700 dark:text-gray-400 text-sm">
                 Don’t have an account?{' '}
                 <Link
-                  href="/signup"
+                  href="/sign-up"
                   className="text-sm font-semibold text-primary-500"
                 >
                   Sign Up

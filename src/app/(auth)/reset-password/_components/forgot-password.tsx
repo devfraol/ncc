@@ -92,7 +92,7 @@ export default function ForgotPasswordForm({ invalidToken }: PropsType) {
 
       <p className="text-gray-700 dark:text-gray-400 font-normal text-sm mt-5">
         Remembered password?{' '}
-        <Link href="/signin" className="text-sm font-semibold text-primary-500">
+        <Link href="/sign-in" className="text-sm font-semibold text-primary-500">
           Sign In
         </Link>
       </p>

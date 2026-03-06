@@ -61,14 +61,14 @@ export default function Header() {
             </button>
 
             <Link
-              href="/signin"
+              href="/sign-in"
               className="text-sm hidden lg:block font-medium text-gray-700 dark:text-gray-400 hover:text-primary-500"
             >
               Sign In
             </Link>
 
             <Link
-              href="/signup"
+              href="/sign-up"
               className="lg:inline-flex items-center px-5 py-3 gradient-btn hidden text-sm text-white rounded-full button-bg h-11"
             >
               Get Started Free

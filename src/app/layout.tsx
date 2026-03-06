@@ -10,11 +10,11 @@ const onest = Onest({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Demo AIStarterKit OSS - Next.js AI Starter Kit Demo',
-    template: '%s | AIStarterKit OSS Demo',
+    default: 'Next Cyber Camp (NCC) | Cybersecurity Academy',
+    template: '%s | Next Cyber Camp',
   },
   description:
-    'Demo website of AIStarterKit OSS boilerplate. Built using Next.js, Tailwind CSS, Drizzle ORM, and PostgreSQL.',
+    'Next Cyber Camp platform for cybersecurity learning, hands-on labs, and guided student pathways.',
 };
 
 export default function RootLayout({
